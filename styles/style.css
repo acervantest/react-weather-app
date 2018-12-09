@@ -6,3 +6,12 @@
   .search-bar input {
     width: 75%;
   }
+
+  td, th{
+    vertical-align: middle !important;
+    text-align: center !important
+  }
+
+  svg{
+    height: 150px;
+  }
